@@ -1,16 +1,28 @@
-## Hi there 👋
+# <div align="center">
+ <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="200"/>
+  <h1>
+  Hey Team
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-<!--
-**JadaClopton/jadaclopton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### :detective: About Me :
+I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>currently:</b> 
+
+
+ - :telescope: building and maintaining full stack applications at a mid-size company!
+
+ - :woman_technologist: catching up on anime, traveling through Thailand, and scrolling (a little :sweat_smile:) on TikTok in my free time. 
+ 
+ 
+ - :seedling:  learning new skills and growing as a developer and person everyday.
+
+ - :mailbox: Reachable at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jadaclopton/)
+
+<div align="right" >
+  <img src="https://media.giphy.com/media/KcMpL8GebR6ygaSRwx/giphy.gif" width="15%" /> <img src="https://media.giphy.com/media/FvTiU4YpDE4fs5NulS/giphy.gif" width="15%" />
+</div>
