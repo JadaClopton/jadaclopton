@@ -14,9 +14,9 @@
 I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>currently:</b> 
 
 
- - :telescope: building and maintaining full stack applications at a mid-size company!
+ - :telescope: building and maintaining full stack applications at a startup!
 
- - :woman_technologist: catching up on anime, traveling through Thailand, and scrolling (a little :sweat_smile:) on TikTok in my free time. 
+ - :woman_technologist: catching up on anime, traveling through south east asia, and scrolling (a little :sweat_smile:) on TikTok in my free time. 
  
  
  - :seedling:  learning new skills and growing as a developer and person everyday.
